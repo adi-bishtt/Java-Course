@@ -54,8 +54,6 @@ public class ifStatements {
         else {
             System.out.println("You can't Drive");
         }
-
-
         scanner.close();
     }
 }
