@@ -19,7 +19,7 @@ public class MathClassExercise {
         double base = Math.pow(side2, 2);
 
         side3 = Math.sqrt(perpendicular + base);
-        System.out.println("Hypotenuse is " + side3);
+        System.out.println("Hypotenuse is " + side3 + " cms");
 
         scanner.close();
 
