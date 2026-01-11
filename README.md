@@ -33,7 +33,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 
 - [x] Variables, Input & Arithmetic
 - [x] Math Class & Random Numbers
-- [ ] String Methods & Substrings
+- [x] String Methods & Substrings
 - [ ] Logical Operators & Loops
 </details>
 
