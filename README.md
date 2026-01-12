@@ -13,7 +13,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 | **Mad Libs Game** | ⭐️📕 | Classic word-replacement game |
 | **Shopping Cart** | ⭐️🛒 | Item calculation and list management |
 | **Compound Interest** | ⭐️💸 | Financial growth calculator |
-| **Weight/Temp Converters** | 🏋️ | Practical unit conversion tools |
+| **Weight/Temp Converters** | ⭐️🏋️ | Practical unit conversion tools |
 | **The OG Calculator** | 🖩 | Full-function arithmetic tool |
 | **Number Guessing** | 🔢 | Logic and random number interaction |
 | **Banking Program** | 💰 | Simulating secure transactions |
@@ -33,7 +33,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 
 - [x] Variables, Input & Arithmetic
 - [x] Math Class & Random Numbers
-- [ ] String Methods & Substrings
+- [x] String Methods & Substrings
 - [ ] Logical Operators & Loops
 </details>
 
