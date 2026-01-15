@@ -15,7 +15,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 | **Compound Interest** | ⭐️💸 | Financial growth calculator |
 | **Weight/Temp Converters** | ⭐️🏋️ | Practical unit conversion tools |
 | **The OG Calculator** | ⭐️🖩 | Full-function arithmetic tool |
-| **Number Guessing** | 🔢 | Logic and random number interaction |
+| **Number Guessing** | ⭐️🔢 | Logic and random number interaction |
 | **Banking Program** | 💰 | Simulating secure transactions |
 | **Quiz Game** | 💯 | Interactive terminal-based testing |
 | **Rock Paper Scissors** | 🗿 | Game logic and win-state handling |
