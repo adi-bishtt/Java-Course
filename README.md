@@ -34,13 +34,13 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 - [x] Variables, Input & Arithmetic
 - [x] Math Class & Random Numbers
 - [x] String Methods & Substrings
-- [ ] Logical Operators & Loops
+- [x] Logical Operators & Loops
 </details>
 
 <details>
 <summary><b>Level 2: Data & Methods (4h - 6h)</b></summary>
 
-- [ ] Overloaded Methods & Variable Scope
+- [x] Overloaded Methods & Variable Scope
 - [ ] Array Management (Searching & 2D)
 - [ ] Varargs & User Input Arrays
 </details>
