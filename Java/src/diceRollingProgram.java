@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class diceRollingProgram {
     public static void main(String[] main){
-
-
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         int numOfDice;
@@ -80,7 +78,6 @@ public class diceRollingProgram {
                 | ●   ● |
                  -------
                 """;
-
         switch (roll) {
             case 1 -> System.out.print(dice1);
             case 2 -> System.out.print(dice2);
