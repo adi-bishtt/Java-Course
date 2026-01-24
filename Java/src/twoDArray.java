@@ -1,4 +1,4 @@
-public class twodArray {
+public class twoDArray {
     public static void main(String[] args) {
 
         String[] fruits = {"apple", "banana", "cherry", "lemon", "grapes"};
@@ -9,8 +9,6 @@ public class twodArray {
 
 
         buyList[1][1] = "pineapple";
-
-
         for(String[] list : buyList){
             for(String buy : list){
                 System.out.print(buy + " ");
