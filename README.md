@@ -17,7 +17,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 | **The OG Calculator** | ⭐️🖩 | Full-function arithmetic tool |
 | **Number Guessing** | ⭐️🔢 | Logic and random number interaction |
 | **Banking Program** | ⭐️💰 | Simulating secure transactions |
-| **Quiz Game** | 💯 | Interactive terminal-based testing |
+| **Quiz Game** | ⭐️💯 | Interactive terminal-based testing |
 | **Rock Paper Scissors** | 🗿 | Game logic and win-state handling |
 | **Slot Machine** | 🎰 | Probability and randomization |
 | **Hangman** | 🕺 | String manipulation and game loops |
