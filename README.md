@@ -17,7 +17,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 | **The OG Calculator** | ⭐️🖩 | Full-function arithmetic tool |
 | **Number Guessing** | ⭐️🔢 | Logic and random number interaction |
 | **Banking Program** | ⭐️💰 | Simulating secure transactions |
-| **Quiz Game** | 💯 | Interactive terminal-based testing |
+| **Quiz Game** | ⭐️💯 | Interactive terminal-based testing |
 | **Rock Paper Scissors** | 🗿 | Game logic and win-state handling |
 | **Slot Machine** | 🎰 | Probability and randomization |
 | **Hangman** | 🕺 | String manipulation and game loops |
@@ -41,8 +41,8 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 <summary><b>Level 2: Data & Methods (4h - 6h)</b></summary>
 
 - [x] Overloaded Methods & Variable Scope
-- [ ] Array Management (Searching & 2D)
-- [ ] Varargs & User Input Arrays
+- [x] Array Management (Searching & 2D)
+- [x] Varargs & User Input Arrays
 </details>
 
 <details>
