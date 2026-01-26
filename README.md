@@ -19,7 +19,7 @@ I’m focusing on what’s possible using just Java and a free IDE. No paid tool
 | **Banking Program** | ⭐️💰 | Simulating secure transactions |
 | **Quiz Game** | ⭐️💯 | Interactive terminal-based testing |
 | **Rock Paper Scissors** | ⭐️🗿 | Game logic and win-state handling |
-| **Slot Machine** | 🎰 | Probability and randomization |
+| **Slot Machine** | ⭐️🎰 | Probability and randomization |
 | **Hangman** | 🕺 | String manipulation and game loops |
 | **Alarm Clock** | 🕰️ | Multithreading and time management |
 
