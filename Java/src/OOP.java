@@ -8,7 +8,6 @@ public class OOP {
         car ford = new car();
 
         System.out.println(ford.isRunning);
-
         ford.start();
         System.out.println(ford.isRunning);
         ford.stop();

@@ -7,11 +7,11 @@ public class car {
     boolean isRunning = true;
 
     void start(){
-        isRunning = true;
+        isRunning = false;
         System.out.println("Starting Car");
     }
     void stop (){
-        isRunning = false;
+        isRunning = true;
         System.out.println("Stopping Car");
     }
 }
